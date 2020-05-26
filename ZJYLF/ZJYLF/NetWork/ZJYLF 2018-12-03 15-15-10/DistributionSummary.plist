@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ZJYLF.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>3D35E549BDCB39399AD14A14D9370EC75BEA740F</string>
+				<key>dateExpires</key>
+				<string>2019/11/11</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>88B9WS8CJ8.com.zhangjiangyunlifang</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>88B9WS8CJ8</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>88B9WS8CJ8.com.zhangjiangyunlifang</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>ZJYLF.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>bf333e08-b527-4945-9516-06b29add8056</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.zhangjiangyunlifang</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>88B9WS8CJ8</string>
+				<key>name</key>
+				<string>dian zhong</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

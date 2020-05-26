@@ -1,0 +1,12 @@
+platform :ios, '8.0'
+inhibit_all_warnings!
+
+abstract_target 'BasePods' do
+    pod 'MJRefresh', '~> 1.4.6'
+    pod 'JPush-iOS-SDK', '~> 1.8.3'
+    pod 'FMDB', '~> 2.5'
+    pod 'PGPickerView', '>= 1.2.1'
+    pod 'SDWebImage', '~> 3.7.3'
+    pod 'IQKeyboardManager'
+target 'ZJYLF'
+end

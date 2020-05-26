@@ -1,0 +1,33 @@
+//
+//  ZJMobile-Prefix.pch
+//  ZJYLF
+//
+//  Created by 刘高洋 on 2018/6/13.
+//  Copyright © 2018年 hymac. All rights reserved.
+//
+
+#ifndef ZJMobile_Prefix_pch
+#define ZJMobile_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* ZJMobile_Prefix_pch */
+
+#ifdef __OBJC__
+#import "AppDelegate.h"
+#import "WCOnbConfiguration.h"
+#import "WJGlobalSingleton.h"
+#import "MJRefresh.h"
+#import "SLGlobalDefines.h"
+#import "UIToolKit.h"
+#import "UIView+Toast.h"
+#import "UIView+DrawLine.h"
+#import "UIView+KGViewExtend.h"
+#import <MobileCoreServices/MobileCoreServices.h>
+#import "UIImage+MHExtensions.h"
+#import "LKDaoBase.h"
+#import "WCBaseContext.h"
+#import "ZJBaseViewController.h"
+
+#endif

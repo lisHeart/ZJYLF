@@ -1,0 +1,40 @@
+PODS:
+  - FMDB (2.7.2):
+    - FMDB/standard (= 2.7.2)
+  - FMDB/standard (2.7.2)
+  - IQKeyboardManager (6.0.4)
+  - JPush-iOS-SDK (1.8.8)
+  - MJRefresh (1.4.7)
+  - PGPickerView (1.2.6)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+
+DEPENDENCIES:
+  - FMDB (~> 2.5)
+  - IQKeyboardManager
+  - JPush-iOS-SDK (~> 1.8.3)
+  - MJRefresh (~> 1.4.6)
+  - PGPickerView (>= 1.2.1)
+  - SDWebImage (~> 3.7.3)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FMDB
+    - IQKeyboardManager
+    - JPush-iOS-SDK
+    - MJRefresh
+    - PGPickerView
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  FMDB: 6198a90e7b6900cfc046e6bc0ef6ebb7be9236aa
+  IQKeyboardManager: 29514134ef0334a6fa33cf4eee11c36c064baeaf
+  JPush-iOS-SDK: d4c097d8abbdd0837e24d44b41aacf64a6feddfd
+  MJRefresh: 6b140993028fa30f1fcb88e82925a7c7911415cf
+  PGPickerView: 8fbbf63d0404065a43a495a0115d339455e0f819
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+
+PODFILE CHECKSUM: 75f6b70c0d1dcf360a44eb785cee98406e2fb821
+
+COCOAPODS: 1.5.3
